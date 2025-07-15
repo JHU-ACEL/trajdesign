@@ -1,0 +1,80 @@
+body {
+  background: #FFFFFF;
+  color: #000000;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background: #002D72; /* JHU Blue */
+  padding: 0.5em 0;
+}
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+.navbar li {
+  margin: 0 1em;
+}
+.navbar a {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.navbar a:hover {
+  text-decoration: underline;
+  color: #A7A8AA; /* JHU Gray on hover */
+}
+
+h1, h2, h3, h4 {
+  color: #002D72;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+table, th, td {
+  border: 1px solid #A7A8AA;
+}
+th, td {
+  padding: 0.5em 1em;
+  text-align: left;
+}
+th {
+  background: #002D72;
+  color: #FFFFFF;
+}
+
+.site-header {
+  background: #002D72; /* JHU Blue */
+  padding: 1em 0;
+}
+
+.site-title {
+  color: #fff !important; /* White text */
+  font-size: 2em;
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 1em;
+}
+
+.site-title:hover {
+  color: #A7A8AA; /* Optional: JHU Gray on hover */
+}
+
+@media (max-width: 600px) {
+  .navbar ul {
+    flex-direction: column;
+    align-items: center;
+  }
+  table, th, td {
+    font-size: 0.95em;
+  }
+} 

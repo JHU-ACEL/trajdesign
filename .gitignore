@@ -1,0 +1,26 @@
+# Jekyll build artifacts
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler and Ruby
+.bundle/
+vendor/
+Gemfile.lock
+
+# macOS system files
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Node modules (if ever used)
+node_modules/ 
