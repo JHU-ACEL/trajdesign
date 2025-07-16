@@ -12,6 +12,8 @@ A strong emphasis will be placed on practical applications through coding implem
 Finally, a course project will be included to allow students to gain further experience on an algorithm or application of their choice.
 
 ## Instructors 
+[Prof. Abhishek Cauligi](https://acauligi.github.io)
+Office: Hackerman 117
 
 ## Course Assistants 
 
