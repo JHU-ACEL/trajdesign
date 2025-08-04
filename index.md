@@ -30,22 +30,22 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 | Week | Date   | Topics Covered                                   | Notes                       | Suggested Readings |
 |------|--------|--------------------------------------------------|-----------------------------|--------------------|
 | 1    | 08/26  | Intro: linear algebra & differential equations review |                             |                    |
-|      | 08/28  | Linear systems theory                            | HW1 Released |                    |
+|      | 08/28  | Linear systems theory                            | HW1 Released |  [1](https://ee263.stanford.edu/lectures/lds.pdf), [2](https://ee263.stanford.edu/lectures/expm.pdf)                  |
 | 2    | 09/02  | Optimization fundamentals |                             |                    |
 |      | 09/04  | Calculus of variations                 | |                    |
 | 3    | 09/09  | Pontryagin's maximum principle and indirect methods |                          |                    |
-|      | 09/11  | Constrained optimization (Pt. 1)                 |    HW1 Due, HW2 Released                         |                    |
-| 4    | 09/16  | Constrained optimization (Pt. 2)                 | Form project groups         |                    |
-|      | 09/18  | Constrained optimization (Pt. 3)                 | |                    |
-| 5    | 09/23  | Off-the-shelf trajectory optimiztion            |                             |                    |
+|      | 09/11  | Constrained optimization (Pt. 1)                 |    HW1 Due, HW2 Released                         | [1](https://ee263.stanford.edu/lectures/25q3/original/10_ls.pdf), [2](https://ee263.stanford.edu/lectures/25q3/original/13_min-norm.pdf)                   |
+| 4    | 09/16  | Constrained optimization (Pt. 2)                 | Form project groups         | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/kkt.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/newton.pdf)                   |
+|      | 09/18  | Constrained optimization (Pt. 3)                 | |     [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf)               |
+| 5    | 09/23  | Off-the-shelf trajectory optimiztion            |                             | [1](https://epubs.siam.org/doi/10.1137/16M1062569)                   |
 |      | 09/25  | Planetary entry, descent, and landing                     | Final project proposal due  |                    |
 | 6    | 09/30  | Rigid bodies and Euler's equations                     |                             |                    |
-|      | 10/02  | Planning with attitude                         | HW2 Due, HW3 Released |                    |
-| 7    | 10/07  | Combinatorial planning with integer programs                |                             |                    |
+|      | 10/02  | Planning with attitude                         | HW2 Due, HW3 Released | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
+| 7    | 10/07  | Combinatorial planning with integer programs                | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |                    |
 |      | 10/09  | Sampling-based motion planning |                             |                    |
 | 8    | 10/14  | Inverse classroom (mid-semester checkpoint) |                             |                    |
 |      | 10/16  | **No lecture (Fall break)** | HW3 Due, HW4 Released |                    |
-| 9    | 10/21  | Derivative-free methods for trajectory optimization |                             |                    |
+| 9    | 10/21  | Derivative-free methods for trajectory optimization |                             |   [1](https://arxiv.org/pdf/2506.22087v1)                |
 |      | 10/23  | Surface rover path planning |                             |                    |
 | 10   | 10/28  | Long and short range planner hierarchies |                             |                    |
 |      | 10/30  | Uncertainty propagation | HW4 Due, HW5 Released |                    |
