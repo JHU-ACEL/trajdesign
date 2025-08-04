@@ -30,32 +30,32 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 | Week | Date   | Topics Covered                                   | Notes                       | Suggested Readings |
 |------|--------|--------------------------------------------------|-----------------------------|--------------------|
 | 1    | 08/26  | Intro: linear algebra & differential equations review |                             |                    |
-|      | 08/28  | Linear systems theory                            | HW1 Released                |                    |
-| 2    | 09/02  | Nonlinear optimization theory                    |                             |                    |
-|      | 09/04  | Constrained optimization (Pt. 1)                 | HW1 Due, HW2 Released       |                    |
+|      | 08/28  | Linear systems theory                            | HW1 Released |                    |
+| 2    | 09/02  | Optimization fundamentals |                             |                    |
+|      | 09/04  | Calculus of variations                 | |                    |
 | 3    | 09/09  | Pontryagin's maximum principle and indirect methods |                          |                    |
-|      | 09/11  | Constrained optimization (Pt. 2)                 |                             |                    |
-| 4    | 09/16  | Constrained optimization (Pt. 3)                 | Form project groups         |                    |
-|      | 09/18  | Constrained optimization (Pt. 4)                 | HW2 Due, HW3 Released       |                    |
-| 5    | 09/23  | Planetary entry, descent, and landing            |                             |                    |
-|      | 09/25  | The two-body problem (Pt. 1)                     | Final project proposal due  |                    |
-| 6    | 09/30  | The two-body problem (Pt. 2)                     |                             |                    |
-|      | 10/02  | Optimum orbital transfer                         | HW3 Due, HW4 Released       |                    |
-| 7    | 10/07  | Rigid bodies and Euler's equation                |                             |                    |
-|      | 10/09  | Planning with attitude                           |                             |                    |
-| 8    | 10/14  | Sampling-based motion planning                   |                             |                    |
-|      | 10/16  | Derivative-free methods for trajectory optimization | HW4 Due, HW5 Released    |                    |
-| 9    | 10/21  | Surface rover path planning                      |                             |                    |
-|      | 10/23  | Long and short range planner hierarchies         |                             |                    |
-| 10   | 10/28  | Uncertainty propagation                          |                             |                    |
-|      | 10/30  | Stochastic optimal control (Pt. 1)               | HW5 Due, HW6 Released       |                    |
-| 11   | 11/04  | Stochastic optimal control (Pt. 2)               |                             |                    |
+|      | 09/11  | Constrained optimization (Pt. 1)                 |    HW1 Due, HW2 Released                         |                    |
+| 4    | 09/16  | Constrained optimization (Pt. 2)                 | Form project groups         |                    |
+|      | 09/18  | Constrained optimization (Pt. 3)                 | |                    |
+| 5    | 09/23  | Off-the-shelf trajectory optimiztion            |                             |                    |
+|      | 09/25  | Planetary entry, descent, and landing                     | Final project proposal due  |                    |
+| 6    | 09/30  | Rigid bodies and Euler's equations                     |                             |                    |
+|      | 10/02  | Planning with attitude                         | HW2 Due, HW3 Released |                    |
+| 7    | 10/07  | Combinatorial planning with integer programs                |                             |                    |
+|      | 10/09  | Sampling-based motion planning |                             |                    |
+| 8    | 10/14  | Inverse classroom (mid-semester checkpoint) |                             |                    |
+|      | 10/16  | **No lecture (Fall break)** | HW3 Due, HW4 Released |                    |
+| 9    | 10/21  | Derivative-free methods for trajectory optimization |                             |                    |
+|      | 10/23  | Surface rover path planning |                             |                    |
+| 10   | 10/28  | Long and short range planner hierarchies |                             |                    |
+|      | 10/30  | Uncertainty propagation | HW4 Due, HW5 Released |                    |
+| 11   | 11/04  | Stochastic optimal control                |                             |                    |
 |      | 11/06  | **Midterm Exam**                                 |                             |                    |
-| 12   | 11/11  | Learning value functions (Pt. 1)                 |                             |                    |
-|      | 11/13  | Learning value functions (Pt. 2)                 | HW6 Due                     |                    |
+| 12   | 11/11  | Differentiable MPC                 |                             |                    |
+|      | 11/13  | Learning value functions                 | HW5 Due                     |                    |
 | 13   | 11/18  | Guest lecture (TBD)                              |                             |                    |
 |      | 11/20  | Guest lecture (TBD)                              |                             |                    |
-| 14   | 11/25  | No Lecture (Fall Break)                          |                             |                    |
-|      | 11/27  | No Lecture (Fall Break)                          |                             |                    |
+| 14   | 11/25  | **No Lecture (Fall Break)**                          |                             |                    |
+|      | 11/27  | **No Lecture (Fall Break)**                          |                             |                    |
 | 15   | 12/02  | Final project presentations                      |                             |                    |
 |      | 12/04  | Final project presentations                      |                             |                    | 
