@@ -41,7 +41,7 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 |      | 09/25  | Planetary entry, descent, and landing                     | Final project proposal due  |                    |
 | 6    | 09/30  | Rigid bodies and Euler's equations                     |                             |                    |
 |      | 10/02  | Planning with attitude                         | HW2 Due, HW3 Released | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
-| 7    | 10/07  | Combinatorial planning with integer programs                | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |                    |
+| 7    | 10/07  | Combinatorial planning with integer programs                |  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
 |      | 10/09  | Sampling-based motion planning |                             |                    |
 | 8    | 10/14  | Inverse classroom (mid-semester checkpoint) |                             |                    |
 |      | 10/16  | **No lecture (Fall break)** | HW3 Due, HW4 Released |                    |
