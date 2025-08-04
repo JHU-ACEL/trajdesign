@@ -51,9 +51,9 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 |      | 10/30  | Uncertainty propagation | HW4 Due, HW5 Released |                    |
 | 11   | 11/04  | Stochastic optimal control                |                             |                    |
 |      | 11/06  | **Midterm Exam**                                 |                             |                    |
-| 12   | 11/11  | Differentiable MPC                 |                             |                    |
-|      | 11/13  | Learning value functions                 | HW5 Due                     |                    |
-| 13   | 11/18  | Guest lecture (TBD)                              |                             |                    |
+| 12   | 11/11  | Guest lecture (Dr. Bobby Braun) |                             |                    |
+|      | 11/13  | Differentiable MPC | HW5 Due                     |                    |
+| 13   | 11/18  | Learning value functions |                             |                    |
 |      | 11/20  | Guest lecture (TBD)                              |                             |                    |
 | 14   | 11/25  | **No Lecture (Fall Break)**                          |                             |                    |
 |      | 11/27  | **No Lecture (Fall Break)**                          |                             |                    |
