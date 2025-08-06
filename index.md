@@ -37,7 +37,7 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 |      | 09/11  | Constrained optimization (Pt. 1)                 |    HW1 Due, HW2 Released                         | [1](https://ee263.stanford.edu/lectures/25q3/original/10_ls.pdf), [2](https://ee263.stanford.edu/lectures/25q3/original/13_min-norm.pdf)                   |
 | 4    | 09/16  | Constrained optimization (Pt. 2)                 | Form project groups         | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/kkt.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/newton.pdf)                   |
 |      | 09/18  | Constrained optimization (Pt. 3)                 | |     [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf)               |
-| 5    | 09/23  | Off-the-shelf trajectory optimiztion            |                             | [1](https://epubs.siam.org/doi/10.1137/16M1062569)                   |
+| 5    | 09/23  | Off-the-shelf trajectory optimization |                             | [1](https://epubs.siam.org/doi/10.1137/16M1062569)                   |
 |      | 09/25  | Planetary entry, descent, and landing                     | Final project proposal due  |                    |
 | 6    | 09/30  | Rigid bodies and Euler's equations                     |                             |                    |
 |      | 10/02  | Planning with attitude                         | HW2 Due, HW3 Released | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
