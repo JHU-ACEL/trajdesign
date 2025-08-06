@@ -49,7 +49,7 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 |      | 10/23  | Surface rover path planning |                             |                    |
 | 10   | 10/28  | Long and short range planner hierarchies |                             |                    |
 |      | 10/30  | Uncertainty propagation | HW4 Due, HW5 Released |                    |
-| 11   | 11/04  | Stochastic optimal control                |                             |                    |
+| 11   | 11/04  | Stochastic optimal control                |                             |  [1](https://ieeexplore.ieee.org/document/7740982)                  |
 |      | 11/06  | **Midterm Exam**                                 |                             |                    |
 | 12   | 11/11  | Guest lecture (Dr. Bobby Braun) |                             |                    |
 |      | 11/13  | Differentiable MPC | HW5 Due                     |                    |
