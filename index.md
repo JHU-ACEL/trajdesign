@@ -44,7 +44,7 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 | 7    | 10/07  | Combinatorial planning with integer programs                |  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
 |      | 10/09  | Sampling-based motion planning |                             |                    |
 | 8    | 10/14  | Inverse classroom (mid-semester checkpoint) |                             |                    |
-|      | 10/16  | **No lecture (Fall break)** | HW3 Due, HW4 Released |                    |
+|      | 10/16  | **No lecture (Fall Break)** | HW3 Due, HW4 Released |                    |
 | 9    | 10/21  | Derivative-free methods for trajectory optimization |                             |   [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf)      |
 |      | 10/23  | Surface rover path planning |                             |                    |
 | 10   | 10/28  | Long and short range planner hierarchies |                             |                    |
@@ -55,7 +55,7 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 |      | 11/13  | Differentiable MPC | HW5 Due                     |                    |
 | 13   | 11/18  | Learning value functions |                             |                    |
 |      | 11/20  | Guest lecture (TBD)                              |                             |                    |
-| 14   | 11/25  | **No Lecture (Fall Break)**                          |                             |                    |
-|      | 11/27  | **No Lecture (Fall Break)**                          |                             |                    |
+| 14   | 11/25  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
+|      | 11/27  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
 | 15   | 12/02  | Final project presentations                      |                             |                    |
 |      | 12/04  | Final project presentations                      |                             |                    | 
