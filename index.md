@@ -20,7 +20,11 @@ Office: Hackerman 117
 ## Meeting Times
 Lectures will be held on Tuesdays and Thursdays from  1:30-2:45PM.
 
-## Office Hours 
+## Office Hours
+Office hours will begin from the second week of the semester.
+- Monday 3-4PM: Arnab Chatterjee
+- Wednesday 1-2PM: Prof. Abhishek Cauligi
+- Thursday 11AM-12PM: Mark Gonzales
 
 ## Syllabus
 The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
