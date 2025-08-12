@@ -16,6 +16,7 @@ Finally, a course project will be included to allow students to gain further exp
 Office: Hackerman 117
 
 ## Course Assistants 
+Mark Gonzales
 
 ## Meeting Times
 Lectures will be held on Tuesdays and Thursdays from  1:30-2:45PM.
