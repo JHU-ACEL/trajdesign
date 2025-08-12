@@ -27,6 +27,10 @@ Office hours will begin from the second week of the semester.
 - Wednesday 1-2PM: Prof. Abhishek Cauligi
 - Thursday 11AM-12PM: Mark Gonzales
 
+## Class Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=d6dad31de5e5051b5a5e5401eb546b4d4afa10b4a0cb2d6f8332d35854175596%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Syllabus
 The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 
