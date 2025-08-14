@@ -6,7 +6,8 @@ title: "Trajectory Design for Space Systems"
 # Trajectory Design for Space Systems (EN.530.626)
 
 ## Course Description
-We will place a heavy emphasis on optimization-based techniques and study optimal control formulations for solving trajectory optimization and model predictive control problems.
+This course is an introduction to the techniques and methods used to design and synthesize trajectories for a broad class of space systems.
+In particular, we will focus on optimization-based techniques for trajectory generation and study optimal control formulations for solving trajectory optimization and model predictive control problems.
 Applications of interest will include interplanetary trajectory optimization, rocket entry-descent-landing, asteroid proximity operations, and planetary rover path planning.
 A strong emphasis will be placed on practical applications through coding implementations in Python and evaluation in simple simulation environments.
 Finally, a course project will be included to allow students to gain further experience on an algorithm or application of their choice.
@@ -38,7 +39,7 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 
 | Week | Date   | Topics Covered                                   | Notes                       | Suggested Readings |
 |------|--------|--------------------------------------------------|-----------------------------|--------------------|
-| 1    | 08/26  | Intro: linear algebra & differential equations review |                             |                    |
+| 1    | 08/26  | Intro: linear algebra & differential equations review |                             | [Learn git](https://learngitbranching.js.org/?locale=en_US), [Learn shell](https://www.learnshell.org/), [Docker tutorial](https://docker-curriculum.com/)                   |
 |      | 08/28  | Linear systems theory                            | HW1 Released |  [1](https://ee263.stanford.edu/lectures/lds.pdf), [2](https://ee263.stanford.edu/lectures/expm.pdf)                  |
 | 2    | 09/02  | Optimization fundamentals |                             |                    |
 |      | 09/04  | Calculus of variations                 | |                    |
