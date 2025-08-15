@@ -17,7 +17,8 @@ Finally, a course project will be included to allow students to gain further exp
 Office: Hackerman 117
 
 ## Course Assistants 
-Mark Gonzales
+Mark Gonzales\\
+Arnab Chatterjee
 
 ## Meeting Times
 Lectures will be held on Tuesdays and Thursdays from  1:30-2:45PM.
@@ -27,10 +28,6 @@ Office hours will begin from the second week of the semester.
 - Monday 3-4PM: Arnab Chatterjee
 - Wednesday 1-2PM: Prof. Abhishek Cauligi
 - Thursday 11AM-12PM: Mark Gonzales
-
-## Class Calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?src=d6dad31de5e5051b5a5e5401eb546b4d4afa10b4a0cb2d6f8332d35854175596%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Syllabus
 The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
@@ -69,3 +66,8 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 |      | 11/27  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
 | 15   | 12/02  | Final project presentations                      |                             |                    |
 |      | 12/04  | Final project presentations                      |                             |                    | 
+
+## Class Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=d6dad31de5e5051b5a5e5401eb546b4d4afa10b4a0cb2d6f8332d35854175596%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
