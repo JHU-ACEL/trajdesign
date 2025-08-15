@@ -24,10 +24,10 @@ Arnab Chatterjee
 Lectures will be held on Tuesdays and Thursdays from  1:30-2:45PM.
 
 ## Office Hours
-Office hours will begin from the second week of the semester.
-- Monday 3-4PM: Arnab Chatterjee
-- Wednesday 1-2PM: Prof. Abhishek Cauligi
-- Thursday 11AM-12PM: Mark Gonzales
+Office hours will begin from the second week of the semester. Office hours will be held regularly at the following times, but please see the calendar at the bottom of the page for the most up-to-date hours: 
+- Monday 3-4PM: Arnab Chatterjee (Hackerman 111)
+- Wednesday 1-2PM: Prof. Abhishek Cauligi (Hackerman 117)
+- Thursday 11AM-12PM: Mark Gonzales (Hackerman 111)
 
 ## Syllabus
 The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
