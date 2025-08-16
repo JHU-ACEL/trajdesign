@@ -44,7 +44,7 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 |      | 09/11  | Constrained optimization (Pt. 1)                 |    HW1 Due, HW2 Released                         | [1](https://ee263.stanford.edu/lectures/25q3/original/10_ls.pdf), [2](https://ee263.stanford.edu/lectures/25q3/original/13_min-norm.pdf)                   |
 | 4    | 09/16  | Constrained optimization (Pt. 2)                 | Form project groups         | [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/kkt.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/newton.pdf)                   |
 |      | 09/18  | Constrained optimization (Pt. 3)                 | |     [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf)               |
-| 5    | 09/23  | Off-the-shelf trajectory optimization |                             | [1](https://epubs.siam.org/doi/10.1137/16M1062569)                   |
+| 5    | 09/23  | Off-the-shelf trajectory optimization |                             | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723)                   |
 |      | 09/25  | Planetary entry, descent, and landing                     | Final project proposal due  | [1](https://arc.aiaa.org/doi/full/10.2514/1.G001480), [2](https://arc.aiaa.org/doi/10.2514/1.47202)  |
 | 6    | 09/30  | Rigid bodies and Euler's equations                     |                             |                    |
 |      | 10/02  | Planning with attitude                         | HW2 Due, HW3 Released | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
@@ -52,7 +52,7 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 |      | 10/09  | Sampling-based motion planning |                             |                    |
 | 8    | 10/14  | Inverse classroom (mid-semester checkpoint) |                             |                    |
 |      | 10/16  | **No lecture (Fall Break)** | HW3 Due, HW4 Released |                    |
-| 9    | 10/21  | Derivative-free methods for trajectory optimization |                             |   [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf)      |
+| 9    | 10/21  | Derivative-free methods for trajectory optimization |                             |   [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921)      |
 |      | 10/23  | Surface rover path planning |                             |                    |
 | 10   | 10/28  | Long and short range planner hierarchies |                             |                    |
 |      | 10/30  | Uncertainty propagation | HW4 Due, HW5 Released |                    |
