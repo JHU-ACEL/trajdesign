@@ -14,7 +14,6 @@ Finally, a course project will be included to allow students to gain further exp
 
 ## Instructors 
 [Prof. Abhishek Cauligi](https://acauligi.github.io)\\
-Office: Hackerman 117
 
 ## Course Assistants 
 Mark Gonzales\\
