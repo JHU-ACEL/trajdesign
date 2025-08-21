@@ -21,7 +21,7 @@ Mark Gonzales\\
 Arnab Chatterjee
 
 ## Meeting Times
-Lectures will be held on Tuesdays and Thursdays from  1:30-2:45PM.
+Lectures will be held on Tuesdays and Thursdays from  1:30-2:45PM in Hodson 216.
 
 ## Office Hours
 Office hours will begin from the second week of the semester. Office hours will be held regularly at the following times, but please see the calendar at the bottom of the page for the most up-to-date hours: 
