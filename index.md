@@ -36,8 +36,8 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 | Week | Date   | Topics Covered                                   | Notes                       | Suggested Readings |
 |------|--------|--------------------------------------------------|-----------------------------|--------------------|
 | 1    | 08/26  | Intro: linear algebra & differential equations review |                             | [Learn git](https://learngitbranching.js.org/?locale=en_US), [Learn shell](https://www.learnshell.org/), [Docker tutorial](https://docker-curriculum.com/)                   |
-|      | 08/28  | Linear systems theory                            | HW1 Released |  [1](https://ee263.stanford.edu/lectures/lds.pdf), [2](https://ee263.stanford.edu/lectures/expm.pdf)                  |
-| 2    | 09/02  | Optimization fundamentals |                             |                    |
+|      | 08/28  | Linear systems theory                            | |  [1](https://ee263.stanford.edu/lectures/lds.pdf), [2](https://ee263.stanford.edu/lectures/expm.pdf)                  |
+| 2    | 09/02  | Optimization fundamentals |       HW1 Released    |                    |
 |      | 09/04  | Calculus of variations                 | | [1](https://ocw.mit.edu/courses/16-323-principles-of-optimal-control-spring-2008/fcbd034c1b9d7e4e79620fbc2d03c9dd_lec5.pdf)                   |
 | 3    | 09/09  | Pontryagin's maximum principle and indirect methods |                          | [2](https://ocw.mit.edu/courses/16-323-principles-of-optimal-control-spring-2008/60e12b689f23537c9de215aeffab0753_lec6.pdf)                   |
 |      | 09/11  | Constrained optimization (Pt. 1)                 |    HW1 Due, HW2 Released                         | [1](https://ee263.stanford.edu/lectures/25q3/original/10_ls.pdf), [2](https://ee263.stanford.edu/lectures/25q3/original/13_min-norm.pdf)                   |
