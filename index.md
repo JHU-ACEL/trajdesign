@@ -50,10 +50,10 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 | 7    | 10/07  | Combinatorial planning with integer programs                |  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
 |      | 10/09  | Sampling-based motion planning |                             |                    |
 | 8    | 10/14  | Inverse classroom (mid-semester checkpoint) |                             |                    |
-|      | 10/16  | **No lecture (Fall Break)** | HW3 Due, HW4 Released |                    |
-| 9    | 10/21  | Derivative-free methods for trajectory optimization |                             |   [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921)      |
-|      | 10/23  | Surface rover path planning |                             |                    |
-| 10   | 10/28  | Long and short range planner hierarchies |                             |                    |
+|      | 10/16  | **No Lecture (Fall Break)** | HW3 Due, HW4 Released |                    |
+| 9    | 10/21  | Surface rover path planning |                             |   [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921)      |
+|      | 10/23  | Long and short range planner hierarchies |                             |                    |
+| 10   | 10/28  | Derivative-free methods for trajectory optimization |                             |                    |
 |      | 10/30  | Uncertainty propagation | HW4 Due, HW5 Released |                    |
 | 11   | 11/04  | Stochastic optimal control                |                             |  [1](https://ieeexplore.ieee.org/document/7740982)                  |
 |      | 11/06  | **Midterm Exam**                                 |                             |                    |
