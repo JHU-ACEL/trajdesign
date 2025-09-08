@@ -46,20 +46,20 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 | 5    | 09/23  | Off-the-shelf trajectory optimization |                             | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723)                   |
 |      | 09/25  | Planetary entry, descent, and landing                     | Final project proposal due  | [1](https://arc.aiaa.org/doi/full/10.2514/1.G001480), [2](https://arc.aiaa.org/doi/10.2514/1.47202)  |
 | 6    | 09/30  | Rigid bodies and Euler's equations                     |                             |                    |
-|      | 10/02  | Planning with attitude                         | HW2 Due, HW3 Released | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
-| 7    | 10/07  | Combinatorial planning with integer programs                |  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
+|      | 10/02  | Planning with attitude                         |  | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
+| 7    | 10/07  | Combinatorial planning with integer programs                | HW2 Due, HW3 Released  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
 |      | 10/09  | Sampling-based motion planning |                             |                    |
 | 8    | 10/14  | Inverse classroom (mid-semester checkpoint) |                             |                    |
-|      | 10/16  | **No Lecture (Fall Break)** | HW3 Due, HW4 Released |                    |
-| 9    | 10/21  | Surface rover path planning |                             |   [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921)      |
+|      | 10/16  | **No Lecture (Fall Break)** |  |                    |
+| 9    | 10/21  | Surface rover path planning |   HW3 Due, HW4 Released |   [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921)      |
 |      | 10/23  | Long and short range planner hierarchies |                             |                    |
 | 10   | 10/28  | Derivative-free methods for trajectory optimization |                             |                    |
-|      | 10/30  | Uncertainty propagation | HW4 Due, HW5 Released |                    |
-| 11   | 11/04  | Stochastic optimal control                |                             |  [1](https://ieeexplore.ieee.org/document/7740982)                  |
+|      | 10/30  | Uncertainty propagation |  |                    |
+| 11   | 11/04  | Stochastic optimal control                |  HW4 Due, HW5 Released |  [1](https://ieeexplore.ieee.org/document/7740982)                  |
 |      | 11/06  | **Midterm Exam**                                 |                             |                    |
 | 12   | 11/11  | Guest lecture (Dr. Bobby Braun) |                             | [1](https://arc.aiaa.org/doi/10.2514/1.41161) |
-|      | 11/13  | Differentiable MPC | HW5 Due                     |                    |
-| 13   | 11/18  | Learning value functions |                             |                    |
+|      | 11/13  | Differentiable MPC |    |                    |
+| 13   | 11/18  | Learning value functions |       HW5 Due     |                    |
 |      | 11/20  | Guest lecture (TBD)                              |                             |                    |
 | 14   | 11/25  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
 |      | 11/27  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
