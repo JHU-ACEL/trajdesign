@@ -31,6 +31,10 @@ Office hours will begin from the second week of the semester. Office hours will 
 ## Syllabus
 The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 
+## Final Project
+This class will culminate with a final project that will allow students to explore topics of their interest and pursue potential research applications.
+Details on the final project can be found [here](./assets/pdf/final_project.pdf). 
+
 ## Schedule
 
 | Week | Date   | Topics Covered                                   | Notes                       | Suggested Readings |
