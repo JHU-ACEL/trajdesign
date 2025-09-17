@@ -34,7 +34,7 @@ The syllabus for the course can be found [here](./assets/pdf/syllabus.pdf).
 ## Final Project
 This class will culminate with a final project that will allow students to explore topics of their interest and pursue potential research applications.
 Details on the final project can be found [here](./assets/pdf/final_project.pdf). 
-You can sign up your team [here](https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/mgonza60_jh_edu/EYzyQz-cobBAocAGCeOHn9oB-leIjMLU7RDcQmLOEVl7uw?e=kw5AwR).
+
 
 ## Schedule
 
