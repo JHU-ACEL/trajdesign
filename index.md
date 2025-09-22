@@ -48,10 +48,10 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |      | 09/11 | Constrained optimization (Pt. 3)                 | HW1 Due, [HW2 Released](./assets/pdf/HW2.pdf), [Lecture 6 Notes](./assets/pdf/lecture_6.pdf)|     [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf)               |
 | 4     | 09/16  | Constrained optimization (Pt. 4) | [Lecture 7 Notes](./assets/pdf/lecture_7.pdf) |                    |
 |     | 09/18 | Off-the-shelf trajectory optimization | [Lecture 8 Slides](./assets/pdf/lecture_8.pdf)    | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723)                   |
-| 5    | 09/23 | Pontryagin's maximum principle and indirect methods |                          | [2](https://ocw.mit.edu/courses/16-323-principles-of-optimal-control-spring-2008/60e12b689f23537c9de215aeffab0753_lec6.pdf)                   |
-|      | 09/25  | Planetary entry, descent, and landing                     | Final project proposal due  | [1](https://arc.aiaa.org/doi/full/10.2514/1.G001480), [2](https://arc.aiaa.org/doi/10.2514/1.47202)  |
-| 6    | 09/30  | Rigid bodies and Euler's equations                     |                             |                    |
-|      | 10/02  | Planning with attitude                         |  | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
+| 5     | 09/23 | Powered descent guidance                     |   | [1](https://arc.aiaa.org/doi/10.2514/1.27553), [2](https://arc.aiaa.org/doi/10.2514/1.47202)   |
+|     | 09/25 | Rigid bodies and Euler's equations                     |    Final project proposal due |                    |
+| 6     | 09/30  | Planning with attitude                         |  | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
+|    | 10/02 | Pontryagin's maximum principle and indirect methods |                          | [1](https://ocw.mit.edu/courses/16-323-principles-of-optimal-control-spring-2008/60e12b689f23537c9de215aeffab0753_lec6.pdf)                   |
 | 7    | 10/07  | Combinatorial planning with integer programs                | HW2 Due, HW3 Released  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
 |      | 10/09  | Sampling-based motion planning |                             |                    |
 | 8    | 10/14  | Inverse classroom (mid-semester checkpoint) |                             |                    |
