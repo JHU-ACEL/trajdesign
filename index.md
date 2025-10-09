@@ -52,7 +52,7 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |     | 09/25 | Rigid bodies and Euler's equations                     |    Final project proposal due |                    |
 | 6     | 09/30  | Planning with attitude                         |  | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
 |    | 10/02 | Pontryagin's maximum principle and indirect methods |                          | [1](https://ocw.mit.edu/courses/16-323-principles-of-optimal-control-spring-2008/60e12b689f23537c9de215aeffab0753_lec6.pdf)                   |
-| 7    | 10/07  | Combinatorial planning with integer programs                | HW2 Due, [Homework 3 Released](./assets/pdf/HW3.pdf)  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
+| 7    | 10/07  | Combinatorial planning with integer programs                | HW2 Due, [Homework 3 Released](./assets/pdf/HW3.pdf), [Lecture 14 Notes](./assets/pdf/lecture_14.pdf)  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
 |      | 10/09  | Sampling-based motion planning |                             |                    |
 | 8    | 10/14  | Inverse classroom (mid-semester checkpoint) |                             |                    |
 |      | 10/16  | **No Lecture (Fall Break)** |  |                    |
