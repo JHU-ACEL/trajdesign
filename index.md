@@ -50,13 +50,13 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |     | 09/18 | Off-the-shelf trajectory optimization | [Lecture 8 Slides](./assets/pdf/lecture_8.pdf)    | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723)                   |
 | 5     | 09/23 | Powered descent guidance                     |  [Lecture 9 Notes](./assets/pdf/lecture_9.pdf) | [1](https://arc.aiaa.org/doi/10.2514/1.27553), [2](https://arc.aiaa.org/doi/10.2514/1.47202)   |
 |     | 09/25 | Rigid bodies and Euler's equations                     |    Final project proposal due |                    |
-| 6     | 09/30  | Planning with attitude                         | [Lecture 11 Notes](./assets/pdf/lecture_11.pdf)  | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
-|    | 10/02 | Pontryagin's maximum principle and indirect methods |                          | [1](https://ocw.mit.edu/courses/16-323-principles-of-optimal-control-spring-2008/60e12b689f23537c9de215aeffab0753_lec6.pdf)                   |
+| 6     | 09/30  | Planning over orientations (Pt. 1) | [Lecture 11 Notes](./assets/pdf/lecture_11.pdf)  | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
+|    | 10/02 |  |  Planning over orientations (Pt. 2)  | [1](https://ocw.mit.edu/courses/16-323-principles-of-optimal-control-spring-2008/60e12b689f23537c9de215aeffab0753_lec6.pdf)                   |
 | 7    | 10/07  | Combinatorial planning with integer programs                | HW2 Due, [Homework 3 Released](./assets/pdf/HW3.pdf), [Lecture 14 Notes](./assets/pdf/lecture_14.pdf)  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
 |      | 10/09  | Sampling-based motion planning |                             |                    |
-| 8    | 10/14  | Inverse classroom (mid-semester checkpoint) |                             |                    |
+| 8    | 10/14  | Surface rover path planning |                             |   [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921) |
 |      | 10/16  | **No Lecture (Fall Break)** |  |                    |
-| 9    | 10/21  | Surface rover path planning |   HW3 Due, HW4 Released |   [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921)      |
+| 9    | 10/21  | Inverse classroom (mid-semester checkpoint) |   HW3 Due, HW4 Released |         |
 |      | 10/23  | Long and short range planner hierarchies |                             |                    |
 | 10   | 10/28  | Derivative-free methods for trajectory optimization |                             |                    |
 |      | 10/30  | Uncertainty propagation |  |                    |
