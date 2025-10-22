@@ -56,7 +56,7 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |      | 10/09  | Sampling-based motion planning |                             |                    |
 | 8    | 10/14  | Surface rover path planning |                             |    |
 |      | 10/16  | **No Lecture (Fall Break)** |  |                    |
-| 9    | 10/21  | Inverse classroom (mid-semester checkpoint) |   HW3 Due, HW4 Released |         |
+| 9    | 10/21  | Inverse classroom (mid-semester checkpoint) |   HW3 Due, [HW4 Released](./assets/pdf/HW4.pdf) |         |
 |      | 10/23  | Long and short range planner hierarchies |                             |                    |
 | 10   | 10/28  | Derivative-free methods for trajectory optimization |                             |    [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921)                |
 |      | 10/30  | Uncertainty propagation |  |                    |
