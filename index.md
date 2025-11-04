@@ -52,7 +52,7 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |     | 09/25 | Rigid bodies and Euler's equations                     |    Final project proposal due |                    |
 | 6     | 09/30  | Planning over orientations (Pt. 1) | [Lecture 11 Notes](./assets/pdf/lecture_11.pdf)  | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
 |    | 10/02 |  Planning over orientations (Pt. 2) | |  |
-| 7    | 10/07  | Combinatorial planning with integer programs                | HW2 Due, [Homework 3 Released](./assets/pdf/HW3.pdf)  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
+| 7    | 10/07  | Combinatorial planning with integer programs                | [Lecture 13 Notes](./assets/pdf/lecture_13.pdf), HW2 Due, [Homework 3 Released](./assets/pdf/HW3.pdf)  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
 |      | 10/09  | Sampling-based motion planning |        [Lecture 14 Notes](./assets/pdf/lecture_14.pdf)   |                    |
 | 8    | 10/14  | Surface rover path planning |                             |    |
 |      | 10/16  | **No Lecture (Fall Break)** |  |                    |
