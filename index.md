@@ -48,8 +48,8 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |      | 09/11 | Constrained optimization (Pt. 3)                 | HW1 Due, [Homework 2 Released](./assets/pdf/HW2.pdf), [Lecture 6 Notes](./assets/pdf/lecture_6.pdf)|     [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf)               |
 | 4     | 09/16  | Constrained optimization (Pt. 4) | [Lecture 7 Notes](./assets/pdf/lecture_7.pdf) |                    |
 |     | 09/18 | Off-the-shelf trajectory optimization | [Lecture 8 Slides](./assets/pdf/lecture_8.pdf)    | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723)                   |
-| 5     | 09/23 | Trajectory optimization overview |  [Lecture 9 Notes](./assets/pdf/lecture_9.pdf) | [1](https://arc.aiaa.org/doi/10.2514/1.27553), [2](https://arc.aiaa.org/doi/10.2514/1.47202)   |
-|     | 09/25 | Powered descent guidance |    Final project proposal due |  [Lecture 10 Notes](./assets/pdf/lecture_10.pdf)                  |
+| 5     | 09/23 | From continuous to discrete optimal control |  [Lecture 9 Notes](./assets/pdf/lecture_9.pdf) |    |
+|     | 09/25 | Powered descent guidance |  [Lecture 10 Notes](./assets/pdf/lecture_10.pdf), Final project proposal due |   [1](https://arc.aiaa.org/doi/10.2514/1.27553), [2](https://arc.aiaa.org/doi/10.2514/1.47202)    |
 | 6     | 09/30  | Planning over orientations (Pt. 1) | [Lecture 11 Notes](./assets/pdf/lecture_11.pdf)  | [1](https://rexlab.ri.cmu.edu/papers/planning_with_attitude.pdf)                   |
 |    | 10/02 |  Planning over orientations (Pt. 2) | |  |
 | 7    | 10/07  | Combinatorial planning with integer programs                | [Lecture 13 Notes](./assets/pdf/lecture_13.pdf), HW2 Due, [Homework 3 Released](./assets/pdf/HW3.pdf)  | [1](https://arxiv.org/abs/2107.08143), [2](https://arc.aiaa.org/doi/10.2514/2.4943)                            |
