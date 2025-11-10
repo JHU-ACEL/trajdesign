@@ -60,12 +60,12 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |      | 10/23  | Long and short range planner hierarchies |  [Lecture 18 Slides](./assets/pdf/lecture_18.pdf)     |                    |
 | 10   | 10/28  | Derivative-free methods for trajectory optimization |                             |    [1](https://arxiv.org/pdf/2506.22087v1), [2](https://www.roboticsproceedings.org/rss07/p22.pdf), [3](https://arc.aiaa.org/doi/pdf/10.2514/1.G001921)                |
 |      | 10/30  | Uncertainty propagation |  |  [1](https://arxiv.org/pdf/2408.05970), [2](https://www.sciencedirect.com/science/article/pii/S0376042116301051)    |
-| 11   | 11/04  | Stochastic optimal control                |  HW4 Due |  [1](https://ieeexplore.ieee.org/document/7740982), [2](https://arxiv.org/pdf/2412.17358), [3](https://arxiv.org/abs/2404.16269)   |
+| 11   | 11/04  | Stochastic optimal control (Pt. 1)   |  HW4 Due |  [1](https://ieeexplore.ieee.org/document/7740982), [2](https://arxiv.org/pdf/2412.17358), [3](https://arxiv.org/abs/2404.16269)   |
 |      | 11/06  | **Midterm Exam**                                 |  [HW5 Released](./assets/pdf/HW5.pdf)                           |                    |
 | 12   | 11/11  | Guest lecture (Dr. Bobby Braun) |                             | [1](https://arc.aiaa.org/doi/10.2514/1.41161), [2](https://arc.aiaa.org/doi/abs/10.2514/6.2008-6216) |
-|      | 11/13  | Learning value functions |    |                    |
-| 13   | 11/18  | Differentiable MPC |            |   |
-|      | 11/20  | Guest lecture (TBD)                              |    HW5 Due    |                    |
+|      | 11/13  | Stochastic optimal control (Pt. 2) |    |                    |
+| 13   | 11/18  | Learning value functions |            |   |
+|      | 11/20  | Differentible MPC |    HW5 Due    |                    |
 | 14   | 11/25  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
 |      | 11/27  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
 | 15   | 12/02  | Final project presentations                      |                             |                    |
