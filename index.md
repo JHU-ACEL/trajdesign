@@ -65,7 +65,7 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 | 12   | 11/11  | Guest lecture (Dr. Bobby Braun) |                             | [1](https://arc.aiaa.org/doi/10.2514/1.41161), [2](https://arc.aiaa.org/doi/abs/10.2514/6.2008-6216) |
 |      | 11/13  | Stochastic optimal control (Pt. 2) | [Lecture 24 Slides](./assets/pdf/lecture_24.pdf)   |    |
 | 13   | 11/18  | Learning value functions |            |   |
-|      | 11/20  | Differentible MPC |    HW5 Due    |                    |
+|      | 11/20  | Differentiable MPC |    HW5 Due    |                    |
 | 14   | 11/25  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
 |      | 11/27  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
 | 15   | 12/02  | Final project presentations                      |                             |                    |
