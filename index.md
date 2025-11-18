@@ -64,7 +64,7 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |      | 11/06  | **Midterm Exam**                                 |  [HW5 Released](./assets/pdf/HW5.pdf)                           |                    |
 | 12   | 11/11  | Guest lecture (Dr. Bobby Braun) |                             | [1](https://arc.aiaa.org/doi/10.2514/1.41161), [2](https://arc.aiaa.org/doi/abs/10.2514/6.2008-6216) |
 |      | 11/13  | Stochastic optimal control (Pt. 2) | [Lecture 24 Slides](./assets/pdf/lecture_24.pdf)   |    |
-| 13   | 11/18  | Learning value functions | [Lecture 25 Sides](./assets/pdf/lecture_25.pdf)  |   |
+| 13   | 11/18  | Learning value functions | [Lecture 25 Slides](./assets/pdf/lecture_25.pdf)  |   |
 |      | 11/20  | Differentiable MPC |    HW5 Due    |                    |
 | 14   | 11/25  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
 |      | 11/27  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
