@@ -42,10 +42,10 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 |------|--------|--------------------------------------------------|-----------------------------|--------------------|
 | 1    | 08/26  | Intro: linear algebra & differential equations review |                             | [Learn git](https://learngitbranching.js.org/?locale=en_US), [Learn shell](https://www.learnshell.org/), [Docker tutorial](https://docker-curriculum.com/)                   |
 |      | 08/28  | Linear systems theory                            | [Lecture 2 Notes](./assets/pdf/lecture_2.pdf)  |  [1](https://ee263.stanford.edu/lectures/lds.pdf), [2](https://ee263.stanford.edu/lectures/expm.pdf)                  |
-| 2    | 09/02  | Optimization fundamentals |[Lecture 3 Notes](./assets/pdf/lecture_3.pdf),  [Homework 1 Released](./assets/pdf/HW1.pdf) |  [1](https://arxiv.org/abs/2510.15734) |
+| 2    | 09/02  | Optimization fundamentals |[Lecture 3 Notes](./assets/pdf/lecture_3.pdf),  [HW1 Released](./assets/pdf/HW1.pdf) |  [1](https://arxiv.org/abs/2510.15734) |
 |      | 09/04  | Constrained optimization (Pt. 1)                 | [Lecture 4 Notes](./assets/pdf/lecture_4.pdf)    | [1](https://ee263.stanford.edu/lectures/25q3/original/10_ls.pdf), [2](https://ee263.stanford.edu/lectures/25q3/original/13_min-norm.pdf)                   |
 |  3   | 09/09  | Constrained optimization (Pt. 2)                 | [Lecture 5 Notes](./assets/pdf/lecture_5.pdf)| [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/kkt.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/newton.pdf)                   |
-|      | 09/11 | Constrained optimization (Pt. 3)                 | HW1 Due, [Homework 2 Released](./assets/pdf/HW2.pdf), [Lecture 6 Notes](./assets/pdf/lecture_6.pdf)|     [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf)               |
+|      | 09/11 | Constrained optimization (Pt. 3)                 | HW1 Due, [HW2 Released](./assets/pdf/HW2.pdf), [Lecture 6 Notes](./assets/pdf/lecture_6.pdf)|     [1](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/barr-method.pdf), [2](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/primal-dual.pdf)               |
 | 4     | 09/16  | Constrained optimization (Pt. 4) | [Lecture 7 Notes](./assets/pdf/lecture_7.pdf) |                    |
 |     | 09/18 | Off-the-shelf trajectory optimization | [Lecture 8 Slides](./assets/pdf/lecture_8.pdf)    | [1](https://epubs.siam.org/doi/10.1137/16M1062569), [2](https://link.springer.com/article/10.1023/A:1021711402723)                   |
 | 5     | 09/23 | From continuous to discrete optimal control |  [Lecture 9 Notes](./assets/pdf/lecture_9.pdf) |    |
@@ -65,7 +65,7 @@ Details on the final project can be found [here](./assets/pdf/final_project.pdf)
 | 12   | 11/11  | Guest lecture (Dr. Bobby Braun) |                             | [1](https://arc.aiaa.org/doi/10.2514/1.41161), [2](https://arc.aiaa.org/doi/abs/10.2514/6.2008-6216) |
 |      | 11/13  | Stochastic optimal control (Pt. 2) | [Lecture 24 Slides](./assets/pdf/lecture_24.pdf)   |    |
 | 13   | 11/18  | Learning value functions | [Lecture 25 Slides](./assets/pdf/lecture_25.pdf)  |   |
-|      | 11/20  | Differentiable MPC |    HW5 Due    |   [Lecture 26 Slides](./assets/pdf/lecture_26.pdf) |
+|      | 11/20  | Differentiable MPC |    HW5 Due, [Lecture 26 Slides](./assets/pdf/lecture_26.pdf) | [1](https://arxiv.org/pdf/2504.15851v1), [2](https://link.springer.com/article/10.1007/BF01580677) |
 | 14   | 11/25  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
 |      | 11/27  | **No Lecture (Thanksgiving Break)**                          |                             |                    |
 | 15   | 12/02  | Final project presentations                      |                             |                    |
