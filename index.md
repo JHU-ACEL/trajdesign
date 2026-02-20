@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Trajectory Design for Space Systems"
+title: "Trajectory Generation for Space Systems"
 ---
 
-# Trajectory Design for Space Systems (EN.530.626)
+# Trajectory Generation for Space Systems (EN.530.626)
 
 ## Course Description
 This course is an introduction to the techniques and methods used to design and synthesize trajectories for a broad class of space systems.
